@@ -20,6 +20,8 @@ Incubators:
 
 [![GitHub stars](https://img.shields.io/github/astaxie/build-web-application-with-golang/shields.svg?style=social&label=Stars&style=plastic)]()
 
+[![GitHub issue last update](https://img.shields.io/github/issues/detail/last-update/badges/shields/979.svg?style=plastic)](https://github.com/adonovan/gopl.io/)
+
 
 
 
