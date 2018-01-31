@@ -24,5 +24,10 @@ Incubators:
 
 
 
+![GitHub last commit](https://img.shields.io/github/last-commit/adonovan/gopl.io.svg?style=plastic)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/SimonWaldherr/golang-examples.svg?style=plastic)
+SimonWaldherr/golang-examples
+
 
 
