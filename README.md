@@ -14,7 +14,11 @@ Incubators:
 
 
 
-[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars&style=plastic)](www.web.de)
+[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars&style=plastic)]()  
+
+[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars&style=plastic)]  
+
+[![GitHub stars](https://img.shields.io/github/astaxie/build-web-application-with-golang/shields.svg?style=social&label=Stars&style=plastic)]()
 
 
 
