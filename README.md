@@ -1,44 +1,20 @@
 # go-incubator
-Temporary gobeys repo to proof before incorporate into the corpus
+Besides gobey repo to check stuff before to incorporate / rework into main corpus
 
-
-[![Go Report Card](https://goreportcard.com/badge/github.com/arschles/go-in-5-minutes)](https://goreportcard.com/report/github.com/arschles/go-in-5-minutes/)  [![GitHub last commit](https://img.shields.io/github/last-commit/arschles/go-in-5-minutes.svg)](https://github.com/arschles/go-in-5-minutes/)  
-[![Go Report Card](https://goreportcard.com/badge/github.com/astaxie/build-web-application-with-golang)](https://goreportcard.com/report/github.com/astaxie/build-web-application-with-golang/)  [![GitHub last commit](https://img.shields.io/github/last-commit/astaxie/build-web-application-with-golang.svg)](https://github.com/astaxie/build-web-application-with-golang/)  
-[![Go Report Card](https://goreportcard.com/badge/github.com/GoesToEleven/golang-web-dev)](https://goreportcard.com/report/github.com/GoesToEleven/golang-web-dev/)  [![GitHub last commit](https://img.shields.io/github/last-commit/GoesToEleven/golang-web-dev.svg)](https://github.com/GoesToEleven/golang-web-dev/)  
-[![Go Report Card](https://goreportcard.com/badge/github.com/GoesToEleven/GolangTraining)](https://goreportcard.com/report/github.com/GoesToEleven/GolangTraining/)  [![GitHub last commit](https://img.shields.io/github/last-commit/GoesToEleven/GolangTraining.svg)](https://github.com/GoesToEleven/GolangTraining/)  
-[![Go Report Card](https://goreportcard.com/badge/github.com/kelseyhightower/intro-to-go-workshop)](https://goreportcard.com/report/github.com/kelseyhightower/intro-to-go-workshop/)  [![GitHub last commit](https://img.shields.io/github/last-commit/kelseyhightower/intro-to-go-workshop.svg)](https://github.com/kelseyhightower/intro-to-go-workshop/)  
+  <li><a href="#cmu440intro-to-go">⏩</a> <b>cmu440.intro-to-go</b>	<a href="https://github.com/cmu440/intro-to-go"><img src="resources/github-sociocon.png" width="18"></a>(new)</li>
 
 
 
-
-Overall:  
-[![Go Report Card](https://goreportcard.com/badge/github.com/codefreezr/gobyes)](https://goreportcard.com/report/github.com/codefreezr/gobyes) (Overall)  
-
-Incubators:  
-[![Go Report Card](https://goreportcard.com/badge/github.com/kelseyhightower/intro-to-go-workshop)](https://goreportcard.com/report/github.com/kelseyhightower/intro-to-go-workshop)  
-[![Go Report Card](https://goreportcard.com/badge/github.com/GoesToEleven/GolangTraining)](https://goreportcard.com/report/github.com/GoesToEleven/GolangTraining)  
-[![Go Report Card](https://goreportcard.com/badge/github.com/astaxie/build-web-application-with-golang/tree/master/en)](https://goreportcard.com/report/github.com/astaxie/build-web-application-with-golang/tree/master/en)  
-[![Go Report Card](https://goreportcard.com/badge/github.com/GoesToEleven/golang-web-dev)](https://goreportcard.com/report/github.com/astaxie/build-web-application-with-golang)  
-[![Go Report Card](https://goreportcard.com/badge/github.com/arschles/go-in-5-minutes)](https://goreportcard.com/report/github.com/astaxie/build-web-application-with-golang)  
-
-[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars&style=flat-square)](https://github.com/adonovan/gopl.io/)
-
-[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars&style=plastic)]()  
-
-[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars&style=plastic)]  
-
-[![GitHub stars](https://img.shields.io/github/astaxie/build-web-application-with-golang/shields.svg?style=social&label=Stars&style=plastic)]()
-
-[![GitHub issue last update](https://img.shields.io/github/issues/detail/last-update/badges/shields/979.svg?style=plastic)](https://github.com/adonovan/gopl.io/)
-
-
-
-![GitHub last commit](https://img.shields.io/github/last-commit/adonovan/gopl.io.svg?style=plastic)
-
-![GitHub last commit](https://img.shields.io/github/last-commit/SimonWaldherr/golang-examples.svg?style=flat)  
-
-
-![GitHub last commit](https://img.shields.io/github/last-commit/SimonWaldherr/golang-examples.svg)  
+### cmu440.intro-to-go
+[![Go Report Card](https://goreportcard.com/badge/github.com/cmu440/intro-to-go)](https://goreportcard.com/report/github.com/cmu440/intro-to-go)
+[![GitHub last commit](https://img.shields.io/github/last-commit/cmu440/intro-to-go.svg)](https://github.com/cmu440/intro-to-go)  
+[Code gobye](corpus/cmu440.intro-to-go)  
+TOC n/a  
+HP n/a    
+Nice description followed here ...  
+<img src="resources/covers/cmu220.png" width="200">  
+[⏫](#gobyes)  
+</br>  
 
 
 
