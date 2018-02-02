@@ -16,5 +16,14 @@ Nice description followed here ...
 [⏫](#gobyes)  
 </br>  
 
-
+### iand.gocookbook
+[![Go Report Card](https://goreportcard.com/badge/github.com/iand/gocookbook)](https://goreportcard.com/report/github.com/iand/gocookbook)
+[![GitHub last commit](https://img.shields.io/github/last-commit/iand/gocookbook.svg)](https://github.com/iand/gocookbook)  
+Around 45 go recipes tenderly wrapped into markdown. 🤔: Go Report won't analyse embedded code.   
+[Code gobye](corpus/iand.gocookbook)  
+[TOC](tbd)  
+[HP](tbd)  
+<img src="resources/covers/iand.png" width="200">  
+[⏫](#gobyes)  
+</br>  
 
