@@ -1,4 +1,4 @@
-# go-incubator
+# gobye-incubator
 Besides gobey repo to check stuff before to incorporate / rework into main corpus
 
   <li><a href="#cmu440intro-to-go">⏩</a> <b>cmu440.intro-to-go</b>	<a href="https://github.com/cmu440/intro-to-go"><img src="resources/github-sociocon.png" width="18"></a>(new)</li>
