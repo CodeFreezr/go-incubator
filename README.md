@@ -1,9 +1,12 @@
 # gobye-incubator
 Besides gobey repo to check stuff before to incorporate / rework into main corpus
 
+<ol>
   <li><a href="#cmu440intro-to-go">⏩</a> <b>cmu440.intro-to-go</b>	<a href="https://github.com/cmu440/intro-to-go"><img src="resources/github-sociocon.png" width="18"></a>(new)</li>
-
-
+    <li><a href="#iandgocookbook">⏩</a> <b>iand.gocookbook</b>	<a href="https://github.com/iand/gocookbook"><img src="resources/github-sociocon.png" width="18"></a></li>
+</ol>
+</br>  
+</br>  
 
 ### cmu440.intro-to-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/cmu440/intro-to-go)](https://goreportcard.com/report/github.com/cmu440/intro-to-go)
@@ -14,6 +17,7 @@ HP n/a
 Nice description followed here ...  
 <img src="resources/covers/cmu220.png" width="200">  
 [⏫](#gobyes)  
+</br>  
 </br>  
 
 ### iand.gocookbook
@@ -26,4 +30,4 @@ Around 45 go recipes tenderly wrapped into markdown. 🤔: Go Report won't analy
 <img src="resources/covers/iand.png" width="200">  
 [⏫](#gobyes)  
 </br>  
-
+</br>  
