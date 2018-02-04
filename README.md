@@ -1,7 +1,7 @@
 # Go By Example - Incubator
 ### gobyes
-![Gophers get crazy](resources/gobyes-auffem-kopf.png)
-Besides gobey repo to check stuff before to incorporate / rework into main corpus
+![Gophers get crazy](resources/gobyes-auffem-kopf.png)  
+Besides gobeys [corpus repo](https://github.com/CodeFreezr/gobyes) this is to check stuff before to incorporate into main corpus.
 
 <ol>
   <li><a href="#cmu440intro-to-go">⏩</a> <b>cmu440.intro-to-go</b>	<a href="https://github.com/cmu440/intro-to-go"><img src="resources/github-sociocon.png" width="18"></a>(new)</li>
