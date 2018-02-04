@@ -1,6 +1,6 @@
 # Go By Example - Incubator
 ### gobyes
-
+![Gophers get crazy](resources/gobyes-auffem-kopf.png)
 Besides gobey repo to check stuff before to incorporate / rework into main corpus
 
 <ol>
