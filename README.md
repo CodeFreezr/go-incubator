@@ -1,4 +1,4 @@
-# Go By Example - Incubator
+# Go By Examples - Incubator
 
 ![Gophers get crazy](resources/gobyes-auffem-kopf.png)  
 ### gobyes
