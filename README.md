@@ -1,6 +1,7 @@
 # Go By Example - Incubator
-### gobyes
+
 ![Gophers get crazy](resources/gobyes-auffem-kopf.png)  
+### gobyes
 Besides gobeys [corpus repo](https://github.com/CodeFreezr/gobyes) this is to check stuff before to incorporate into main corpus.
 
 <ol>
