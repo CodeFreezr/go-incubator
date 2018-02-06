@@ -5,7 +5,7 @@
 <ol>
     <li><a href="#pktbuild--restful-2017"><b>pkt.build-restful (2017)</b></a>  <a href="https://github.com/PacktPublishing/Building-RESTful-Web-Services-with-Go"><img src="resources/github-sociocon.png" width="18"></a></li>
     <li><a href="#pktcloudnative-2017"><b>pkt.cloudnative (2017)</b></a>  <a href="https://github.com/PacktPublishing/Cloud-Native-programming-with-Golang"><img src="resources/github-sociocon.png" width="18"></a></li>
-    <li><a href="#pktgo--designpatterns-2017"><b>pkt.go-designpatterns (2017)</b></a>  <a href="https://github.com/PacktPublishing/Go-Building-7-Real-World-Projects"><img src="resources/github-sociocon.png" width="18"></a></li>
+    <li><a href="#pktgo-designpatterns-2017"><b>pkt.go-designpatterns (2017)</b></a>  <a href="https://github.com/PacktPublishing/Go-Building-7-Real-World-Projects"><img src="resources/github-sociocon.png" width="18"></a></li>
     <li><a href="#pktsystemsprogramming-2017"><b>pkt.systemsprogramming (2017)</b></a>  <a href="https://github.com/PacktPublishing/Go-Building-Web-Applications"><img src="resources/github-sociocon.png" width="18"></a></li>
     <li><a href="#pktgo--buildwebapp-2016"><b>pkt.go-buildwebapp (2016)</b></a>  <a href="https://github.com/PacktPublishing/Go-Design-Patterns"><img src="resources/github-sociocon.png" width="18"></a></li>
     <li><a href="#pktgo--buildsevenapps-2017"><b>pkt.go-buildsevenapps (2017)</b></a>  <a href="https://github.com/PacktPublishing/Go-Design-Patterns-for-Real-World-Projects"><img src="resources/github-sociocon.png" width="18"></a></li>
