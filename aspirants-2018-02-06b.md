@@ -19,12 +19,15 @@
 
 </ol>
 
+
 ### pkt.build-restful (2017)
 [![Go Report Card](https://goreportcard.com/badge/github.com/PacktPublishing/Building-RESTful-Web-Services-with-Go)](https://goreportcard.com/report/github.com/PacktPublishing/Building-RESTful-Web-Services-with-Go)
 [![GitHub last commit](https://img.shields.io/github/last-commit/PacktPublishing/Building-RESTful-Web-Services-with-Go.svg)](https://github.com/PacktPublishing/Building-RESTful-Web-Services-with-Go/)
 [![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/PacktPublishing/Building-RESTful-Web-Services-with-Go)  
 [⏮️](#gobyes)[⏪](#)[⏩](#pktcloudnative-2017)[⏭️](#eop)  
-Smart Description here ...  
+Title: Building RESTful Web services with Go  
+Authors(s): Naren Yellavula  
+Abstract: Smart Description here ...  
 [TOC](toc)  
 [HP](https://www.packtpub.com/application-development/building-restful-web-services-go?utm_source=github&utm_medium=repository&utm_campaign=9781788294287)  
 <img src="resources/covers/gobl.png" width="200">  
@@ -36,7 +39,9 @@ Smart Description here ...
 [![GitHub last commit](https://img.shields.io/github/last-commit/PacktPublishing/Cloud-Native-programming-with-Golang.svg)](https://github.com/PacktPublishing/Cloud-Native-programming-with-Golang/)
 [![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/PacktPublishing/Cloud-Native-programming-with-Golang)  
 [⏮️](#gobyes)[⏪](#pktbuild-restful-2017)[⏩](#pktgo-designpatterns-2017)[⏭️](#eop)  
-Smart Description here ...  
+Title: Cloud Native programming with Golang  
+Authors(s): Mina Andrawos, Martin Helmich  
+Abstract: Smart Description here ...  
 [TOC](toc)  
 [HP](https://www.packtpub.com/application-development/cloud-native-programming-golang)  
 <img src="resources/covers/gobl.png" width="200">  
@@ -48,7 +53,9 @@ Smart Description here ...
 [![GitHub last commit](https://img.shields.io/github/last-commit/PacktPublishing/Go-Building-7-Real-World-Projects.svg)](https://github.com/PacktPublishing/Go-Building-7-Real-World-Projects/)
 [![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/PacktPublishing/Go-Building-7-Real-World-Projects)  
 [⏮️](#gobyes)[⏪](#pktcloudnative-2017)[⏩](#pktsystemsprogramming-2017)[⏭️](#eop)  
-Smart Description here ...  
+Title: Go Design Patterns  
+Authors(s): Mario Castro Contreras  
+Abstract: Smart Description here ...  
 [TOC](toc)  
 [HP](https://www.packtpub.com/application-development/go-design-patterns)  
 <img src="resources/covers/gobl.png" width="200">  
@@ -60,7 +67,9 @@ Smart Description here ...
 [![GitHub last commit](https://img.shields.io/github/last-commit/PacktPublishing/Go-Building-Web-Applications.svg)](https://github.com/PacktPublishing/Go-Building-Web-Applications/)
 [![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/PacktPublishing/Go-Building-Web-Applications)  
 [⏮️](#gobyes)[⏪](#pktgo-designpatterns-2017)[⏩](#pktgo-buildwebapp-2016)[⏭️](#eop)  
-Smart Description here ...  
+Title: Go Systems Programming  
+Authors(s): Mihalis Tsoukalos  
+Abstract: Smart Description here ...  
 [TOC](toc)  
 [HP](https://www.packtpub.com/mapt/book/networking_and_servers/9781787125643)  
 <img src="resources/covers/gobl.png" width="200">  
@@ -72,7 +81,9 @@ Smart Description here ...
 [![GitHub last commit](https://img.shields.io/github/last-commit/PacktPublishing/Go-Design-Patterns.svg)](https://github.com/PacktPublishing/Go-Design-Patterns/)
 [![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/PacktPublishing/Go-Design-Patterns)  
 [⏮️](#gobyes)[⏪](#pktsystemsprogramming-2017)[⏩](#pktgo-buildsevenapps-2017)[⏭️](#eop)  
-Smart Description here ...  
+Title: Go: Building Web Applications  
+Authors(s): Nathan Kozyra, Mat Ryer  
+Abstract: Smart Description here ...  
 [TOC](toc)  
 [HP](https://www.packtpub.com/application-development/go-building-web-applications)  
 <img src="resources/covers/gobl.png" width="200">  
@@ -84,7 +95,9 @@ Smart Description here ...
 [![GitHub last commit](https://img.shields.io/github/last-commit/PacktPublishing/Go-Design-Patterns-for-Real-World-Projects.svg)](https://github.com/PacktPublishing/Go-Design-Patterns-for-Real-World-Projects/)
 [![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/PacktPublishing/Go-Design-Patterns-for-Real-World-Projects)  
 [⏮️](#gobyes)[⏪](#pktgo-buildwebapp-2016)[⏩](#pktgo-patternforrealworld-2017)[⏭️](#eop)  
-Smart Description here ...  
+Title: Go: Building 7 Real-World Projects  
+Authors(s): Ben Trantor, Rostislav Zsinko, Mat Ryer  
+Abstract: Smart Description here ...  
 [TOC](toc)  
 [HP](https://www.packtpub.com/application-development/go-building-7-real-world-projects)  
 <img src="resources/covers/gobl.png" width="200">  
@@ -96,7 +109,9 @@ Smart Description here ...
 [![GitHub last commit](https://img.shields.io/github/last-commit/PacktPublishing/Isomorphic-Go.svg)](https://github.com/PacktPublishing/Isomorphic-Go/)
 [![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/PacktPublishing/Isomorphic-Go)  
 [⏮️](#gobyes)[⏪](#pktgo-buildsevenapps-2017)[⏩](#pktisomorphic-go-2017)[⏭️](#eop)  
-Smart Description here ...  
+Title: Go: Design Patterns for Real-World Projects  
+Authors(s): Vladimir Vivien, Mario Castro Contreras, Mat Ryer  
+Abstract: Smart Description here ...  
 [TOC](toc)  
 [HP](https://www.packtpub.com/application-development/go-design-patterns-real-world-projects)  
 <img src="resources/covers/gobl.png" width="200">  
@@ -108,7 +123,9 @@ Smart Description here ...
 [![GitHub last commit](https://img.shields.io/github/last-commit/PacktPublishing/Learning-Functional-Programming-in-Go.svg)](https://github.com/PacktPublishing/Learning-Functional-Programming-in-Go/)
 [![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/PacktPublishing/Learning-Functional-Programming-in-Go)  
 [⏮️](#gobyes)[⏪](#pktgo-patternforrealworld-2017)[⏩](#pktlearning-functional-go-2017)[⏭️](#eop)  
-Smart Description here ...  
+Title: Isomorphic Go  
+Authors(s): Kamesh Balasubramanian  
+Abstract: Smart Description here ...  
 [TOC](toc)  
 [HP](https://www.packtpub.com/web-development/isomorphic-go)  
 <img src="resources/covers/gobl.png" width="200">  
@@ -120,7 +137,9 @@ Smart Description here ...
 [![GitHub last commit](https://img.shields.io/github/last-commit/PacktPublishing/Learning-Go-Programming.svg)](https://github.com/PacktPublishing/Learning-Go-Programming/)
 [![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/PacktPublishing/Learning-Go-Programming)  
 [⏮️](#gobyes)[⏪](#pktisomorphic-go-2017)[⏩](#pktlearning-go-2016)[⏭️](#eop)  
-Smart Description here ...  
+Title: Learning Functional Programming in Go  
+Authors(s): Lex Sheehan  
+Abstract: Smart Description here ...  
 [TOC](toc)  
 [HP](https://www.packtpub.com/application-development/learning-functional-programming-go)  
 <img src="resources/covers/gobl.png" width="200">  
@@ -132,7 +151,9 @@ Smart Description here ...
 [![GitHub last commit](https://img.shields.io/github/last-commit/PacktPublishing/Machine-Learning-With-Go.svg)](https://github.com/PacktPublishing/Machine-Learning-With-Go/)
 [![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/PacktPublishing/Machine-Learning-With-Go)  
 [⏮️](#gobyes)[⏪](#pktlearning-functional-go-2017)[⏩](#pktmachinelearning-go-2017)[⏭️](#eop)  
-Smart Description here ...  
+Title: Learning Go Programming  
+Authors(s): Vladimir Vivien  
+Abstract: Smart Description here ...  
 [TOC](toc)  
 [HP](https://www.packtpub.com/application-development/learning-go-programming?utm_source=github&utm_medium=repository&utm_campaign=9781784395438)  
 <img src="resources/covers/gobl.png" width="200">  
@@ -144,7 +165,9 @@ Smart Description here ...
 [![GitHub last commit](https://img.shields.io/github/last-commit/PacktPublishing/Security-with-Go.svg)](https://github.com/PacktPublishing/Security-with-Go/)
 [![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/PacktPublishing/Security-with-Go)  
 [⏮️](#gobyes)[⏪](#pktlearning-go-2016)[⏩](#pktsecurity-go-2018)[⏭️](#eop)  
-Smart Description here ...  
+Title: Machine Learning With Go  
+Authors(s): Daniel Whitenack  
+Abstract: Smart Description here ...  
 [TOC](toc)  
 [HP](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-go)  
 <img src="resources/covers/gobl.png" width="200">  
@@ -156,12 +179,15 @@ Smart Description here ...
 [![GitHub last commit](https://img.shields.io/github/last-commit/PacktPublishing/Go-Systems-Programming.svg)](https://github.com/PacktPublishing/Go-Systems-Programming/)
 [![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/PacktPublishing/Go-Systems-Programming)  
 [⏮️](#gobyes)[⏪](#pktmachinelearning-go-2017)[⏩](#)[⏭️](#eop)  
-Smart Description here ...  
+Title: Security with Go  
+Authors(s): John Daniel Leon  
+Abstract: Smart Description here ...  
 [TOC](toc)  
 [HP](https://www.packtpub.com/networking-and-servers/security-go)  
 <img src="resources/covers/gobl.png" width="200">  
 </br> 
 </br>
+
 
 
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
