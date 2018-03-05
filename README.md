@@ -14,8 +14,9 @@ Besides gobeys [corpus repo](https://github.com/CodeFreezr/gobyes) this is to ch
 [![Go Report Card](https://goreportcard.com/badge/github.com/kelseyhightower/intro-to-go-workshop)](https://goreportcard.com/report/github.com/kelseyhightower/intro-to-go-workshop)  [![GitHub last commit](https://img.shields.io/github/last-commit/kelseyhightower/intro-to-go-workshop.svg)](https://github.com/kelseyhightower/intro-to-go-workshop/)  
 1. goeg-backup   
 ???
-1. hermant.data-structure-algo (source deleted?)   
-???
+1. Hemant-Jain-Author/Data-Structures-Algorithms-In-Go   
+[![Go Report Card](https://goreportcard.com/badge/github.com/Hemant-Jain-Author/Data-Structures-Algorithms-In-Go)](https://goreportcard.com/report/github.com/Hemant-Jain-Author/Data-Structures-Algorithms-In-Go) [![GitHub last commit](https://img.shields.io/github/last-commit/Hemant-Jain-Author/Data-Structures-Algorithms-In-Go.svg)](https://github.com/Hemant-Jain-Author/Data-Structures-Algorithms-In-Go)
+
 1. miekg.learninggo [book](https://miek.nl/go/learninggo.html)   
 [![Go Report Card](https://goreportcard.com/badge/github.com/miekg/learninggo)](https://goreportcard.com/report/github.com/miekg/learninggo) [![GitHub last commit](https://img.shields.io/github/last-commit/miekg/learninggo.svg)](https://github.com/miekg/learninggo)
 
@@ -24,4 +25,5 @@ Besides gobeys [corpus repo](https://github.com/CodeFreezr/gobyes) this is to ch
 
 ---
 
-miekg/learninggo
+Hemant-Jain-Author/Data-Structures-Algorithms-In-Go
+
