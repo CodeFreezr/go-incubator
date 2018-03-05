@@ -12,6 +12,22 @@ Besides gobeys [corpus repo](https://github.com/CodeFreezr/gobyes) this is to ch
 </br>  
 </br>  
 
+
+### exercism.go
+[![Go Report Card](https://goreportcard.com/badge/github.com/exercism/go)](https://goreportcard.com/report/github.com/exercism/go)
+[![GitHub last commit](https://img.shields.io/github/last-commit/exercism/go.svg)](https://github.com/exercism/go)  
+[Code gobye](corpus/exercism.go)  
+TOC n/a  
+HP n/a    
+Nice description followed here ...  
+<img src="resources/covers/exercism.png" width="200">  
+[⏫](#gobyes)  
+</br>  
+</br>  
+
+
+
+
 ### cmu440.intro-to-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/cmu440/intro-to-go)](https://goreportcard.com/report/github.com/cmu440/intro-to-go)
 [![GitHub last commit](https://img.shields.io/github/last-commit/cmu440/intro-to-go.svg)](https://github.com/cmu440/intro-to-go)  
