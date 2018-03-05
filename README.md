@@ -16,10 +16,12 @@ Besides gobeys [corpus repo](https://github.com/CodeFreezr/gobyes) this is to ch
 ???
 1. hermant.data-structure-algo (source deleted?)   
 ???
-1. miek.learninggo (only markdown?)   
-https://miek.nl/go/learninggo.html
-1. packtpublishing.Cloud-Native-programming-with-Golang (to much node-modules)   
+1. miekg.learninggo [book](https://miek.nl/go/learninggo.html)   
+[![Go Report Card](https://goreportcard.com/badge/github.com/miekg/learninggo)](https://goreportcard.com/report/github.com/miekg/learninggo) [![GitHub last commit](https://img.shields.io/github/last-commit/miekg/learninggo.svg)](https://github.com/miekg/learninggo)
+
+1. packtpublishing.Cloud-Native-programming-with-Golang (to much node-modules, too big)   
 [![Go Report Card](https://goreportcard.com/badge/github.com/packtpublishing/Cloud-Native-programming-with-Golang)](https://goreportcard.com/report/github.com/packtpublishing/Cloud-Native-programming-with-Golang) [![GitHub last commit](https://img.shields.io/github/last-commit/packtpublishing/Cloud-Native-programming-with-Golang.svg)](https://github.com/packtpublishing/Cloud-Native-programming-with-Golang)
 
 ---
 
+miekg/learninggo
