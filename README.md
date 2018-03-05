@@ -4,8 +4,6 @@
 ### gobyes
 Besides gobeys [corpus repo](https://github.com/CodeFreezr/gobyes) this is to check stuff before to incorporate into main corpus.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/DetlefBurkhardt.svg?style=social&label=Follow)]()
-
 1. exercism.go  
 [![Go Report Card](https://goreportcard.com/badge/github.com/exercism/go)](https://goreportcard.com/report/github.com/exercism/go) [![GitHub last commit](https://img.shields.io/github/last-commit/exercism/go.svg)](https://github.com/exercism/go)
 1. cmu440.intro-to-go   
