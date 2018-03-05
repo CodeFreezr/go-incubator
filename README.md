@@ -25,5 +25,3 @@ Besides gobeys [corpus repo](https://github.com/CodeFreezr/gobyes) this is to ch
 
 ---
 
-
-
