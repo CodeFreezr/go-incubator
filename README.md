@@ -4,6 +4,8 @@
 ### gobyes
 Besides gobeys [corpus repo](https://github.com/CodeFreezr/gobyes) this is to check stuff before to incorporate into main corpus.
 
+Test-Badge for my F-Count: [![Twitter Follow](https://img.shields.io/twitter/follow/DetlefBurkhardt.svg?style=social&label=Follow)]()
+
 <ol>
   <li><a href="#cmu440intro-to-go">⏩</a> <b>cmu440.intro-to-go</b>	<a href="https://github.com/cmu440/intro-to-go"><img src="resources/github-sociocon.png" width="18"></a>(new)</li>
     <li><a href="#iandgocookbook">⏩</a> <b>iand.gocookbook</b>	<a href="https://github.com/iand/gocookbook"><img src="resources/github-sociocon.png" width="18"></a></li>
