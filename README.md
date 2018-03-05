@@ -16,11 +16,11 @@ Besides gobeys [corpus repo](https://github.com/CodeFreezr/gobyes) this is to ch
 [![Go Report Card](https://goreportcard.com/badge/github.com/kelseyhightower/intro-to-go-workshop)](https://goreportcard.com/report/github.com/kelseyhightower/intro-to-go-workshop)  [![GitHub last commit](https://img.shields.io/github/last-commit/kelseyhightower/intro-to-go-workshop.svg)](https://github.com/kelseyhightower/intro-to-go-workshop/)  
 1. goeg-backup   
 ???
-1. hermant.data-structure-algo  
+1. hermant.data-structure-algo (source deleted?)   
 ???
-1. miek.learninggo   
+1. miek.learninggo (only markdown?)   
 https://miek.nl/go/learninggo.html
-1. packtpublishing.Cloud-Native-programming-with-Golang   
+1. packtpublishing.Cloud-Native-programming-with-Golang (to much node-modules)
 [![Go Report Card](https://goreportcard.com/badge/github.com/packtpublishing/Cloud-Native-programming-with-Golang)](https://goreportcard.com/report/github.com/packtpublishing/Cloud-Native-programming-with-Golang) [![GitHub last commit](https://img.shields.io/github/last-commit/packtpublishing/Cloud-Native-programming-with-Golang.svg)](https://github.com/packtpublishing/Cloud-Native-programming-with-Golang)
 
 ---
