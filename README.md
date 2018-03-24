@@ -5,7 +5,7 @@
 Besides gobeys [corpus repo](https://github.com/CodeFreezr/gobyes) this is to check stuff before to incorporate into main corpus.
 
 
-1. Learn Go with Tests
+1. Learn Go with Tests   
 [![Go Report Card](https://goreportcard.com/badge/github.com/quii/learn-go-with-tests)](https://goreportcard.com/report/github.com/quii/learn-go-with-tests) 
 [![GitHub last commit](https://img.shields.io/github/last-commit/quii/learn-go-with-tests.svg)](https://github.com/quii/learn-go-with-tests)   
 
