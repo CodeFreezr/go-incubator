@@ -4,8 +4,14 @@
 ### gobyes
 Besides gobeys [corpus repo](https://github.com/CodeFreezr/gobyes) this is to check stuff before to incorporate into main corpus.
 
+
+1. Learn Go with Tests
+[![Go Report Card](https://goreportcard.com/badge/github.com/quii/learn-go-with-tests)](https://goreportcard.com/report/github.com/quii/learn-go-with-tests) 
+[![GitHub last commit](https://img.shields.io/github/last-commit/quii/learn-go-with-tests.svg)](https://github.com/quii/learn-go-with-tests)   
+
 1. exercism.go  
-[![Go Report Card](https://goreportcard.com/badge/github.com/exercism/go)](https://goreportcard.com/report/github.com/exercism/go) [![GitHub last commit](https://img.shields.io/github/last-commit/exercism/go.svg)](https://github.com/exercism/go)
+[![Go Report Card](https://goreportcard.com/badge/github.com/exercism/go)](https://goreportcard.com/report/github.com/exercism/go)
+[![GitHub last commit](https://img.shields.io/github/last-commit/exercism/go.svg)](https://github.com/exercism/go)
 1. cmu440.intro-to-go   
 [![Go Report Card](https://goreportcard.com/badge/github.com/cmu440/intro-to-go)](https://goreportcard.com/report/github.com/cmu440/intro-to-go) [![GitHub last commit](https://img.shields.io/github/last-commit/cmu440/intro-to-go.svg)](https://github.com/cmu440/intro-to-go)  
 1. iand.gocookbook   
